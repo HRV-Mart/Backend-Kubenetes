@@ -15,3 +15,4 @@ data:
   hashed-secret: BASE64-ENCODED
   jwt-secret: BASE64-ENCODED
 ```
+Created with ♥️ by [Harsh](https://github.com/Harsh3305)
