@@ -1,0 +1,1 @@
+# Kubernetes config for HRV-Mart
