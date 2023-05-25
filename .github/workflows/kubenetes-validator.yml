@@ -15,7 +15,7 @@ jobs:
         id: k8s
         uses: yakketyyak/validate-k8s-files@master
         with:
-          files: file1,dir1,dir2,file2
+          files: configmap.yaml,kafka.yaml,zookeper.yaml,mongo.yaml
           report_name: My final report
       - uses: actions/upload-artifact@main
         with:
